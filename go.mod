@@ -1,4 +1,4 @@
-module github.com/restartfu/go-bc/ur
+module github.com/restartfu/go-bc-ur
 
 go 1.25.0
 
